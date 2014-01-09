@@ -41,3 +41,7 @@ Username: sefrengo_prod
 Password: password_prod
 Database: sefrengo_prod
 ```
+
+## Credits
+
+The Vagrant setup is created by [PuPHPet](https://puphpet.com).
