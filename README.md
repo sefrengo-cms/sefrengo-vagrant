@@ -20,18 +20,24 @@ Vagrant setup for developing Sefrengo
 Adminer: <http://192.168.56.101/adminer/>
 
 **Root**
-Server: `localhost`
-Username: `root`
-Password: `123`
+```
+Server: localhost
+Username: root
+Password: 123
+```
 
 **sefrengo_dev**
-Server: `localhost`
-Username: `sefrengo_dev`
-Password: `password_dev`
-Database: `sefrengo_dev`
+```
+Server: localhost
+Username: sefrengo_dev
+Password: password_dev
+Database: sefrengo_dev
+```
 
 **sefrengo_prod**
-Server: `localhost`
-Username: `sefrengo_prod`
-Password: `password_prod`
-Database: `sefrengo_prod`
+```
+Server: localhost
+Username: sefrengo_prod
+Password: password_prod
+Database: sefrengo_prod
+```
