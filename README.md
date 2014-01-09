@@ -12,5 +12,4 @@ Vagrant setup for developing Sefrengo
 - Edit your machines `hosts` file add `192.168.56.101 sefrengo.dev`
 - Run `vagrant up` from the root of the cloned repo. (The installation may take a while.)
 - Login to the VM with `vagrant ssh`
-- After finishing 
-- shutdown the VM with `vagrant halt`
+- Finished work? Shutdown the VM with `vagrant halt` or destroy it completly `vagrant destroy`
