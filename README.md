@@ -3,8 +3,6 @@ Sefrengo Vagrant
 
 Vagrant setup for developing Sefrengo
 
-## Changelog
-
 ## Instructions
 
 - Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant 1.4](http://www.vagrantup.com/downloads.html)
